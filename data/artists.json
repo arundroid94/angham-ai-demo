@@ -1,0 +1,502 @@
+[
+  {
+    "id": "artist-1",
+    "name": "Amr Diab",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-amr-diab/400/400",
+    "monthlyListeners": 120000
+  },
+  {
+    "id": "artist-2",
+    "name": "Fairuz",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-fairuz/400/400",
+    "monthlyListeners": 173219
+  },
+  {
+    "id": "artist-3",
+    "name": "Nancy Ajram",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-nancy-ajram/400/400",
+    "monthlyListeners": 226438
+  },
+  {
+    "id": "artist-4",
+    "name": "Mohammed Abdu",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-mohammed-abdu/400/400",
+    "monthlyListeners": 279657
+  },
+  {
+    "id": "artist-5",
+    "name": "Elissa",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-elissa/400/400",
+    "monthlyListeners": 332876
+  },
+  {
+    "id": "artist-6",
+    "name": "Kadim Al Sahir",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-kadim-al-sahir/400/400",
+    "monthlyListeners": 386095
+  },
+  {
+    "id": "artist-7",
+    "name": "Abdul Majeed Abdullah",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-abdul-majeed-abdullah/400/400",
+    "monthlyListeners": 439314
+  },
+  {
+    "id": "artist-8",
+    "name": "Tamer Hosny",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-tamer-hosny/400/400",
+    "monthlyListeners": 492533
+  },
+  {
+    "id": "artist-9",
+    "name": "Sherine",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-sherine/400/400",
+    "monthlyListeners": 545752
+  },
+  {
+    "id": "artist-10",
+    "name": "Wael Kfoury",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-wael-kfoury/400/400",
+    "monthlyListeners": 598971
+  },
+  {
+    "id": "artist-11",
+    "name": "Najwa Karam",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-najwa-karam/400/400",
+    "monthlyListeners": 652190
+  },
+  {
+    "id": "artist-12",
+    "name": "Rashed Al Majed",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-rashed-al-majed/400/400",
+    "monthlyListeners": 705409
+  },
+  {
+    "id": "artist-13",
+    "name": "Hussain Al Jassmi",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-hussain-al-jassmi/400/400",
+    "monthlyListeners": 758628
+  },
+  {
+    "id": "artist-14",
+    "name": "Assala Nasri",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-assala-nasri/400/400",
+    "monthlyListeners": 811847
+  },
+  {
+    "id": "artist-15",
+    "name": "Angham",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-angham/400/400",
+    "monthlyListeners": 865066
+  },
+  {
+    "id": "artist-16",
+    "name": "Mohamed Hamaki",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-mohamed-hamaki/400/400",
+    "monthlyListeners": 918285
+  },
+  {
+    "id": "artist-17",
+    "name": "Saad Lamjarred",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-saad-lamjarred/400/400",
+    "monthlyListeners": 971504
+  },
+  {
+    "id": "artist-18",
+    "name": "Balqees",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-balqees/400/400",
+    "monthlyListeners": 1024723
+  },
+  {
+    "id": "artist-19",
+    "name": "Ahlam",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-ahlam/400/400",
+    "monthlyListeners": 1077942
+  },
+  {
+    "id": "artist-20",
+    "name": "Diana Haddad",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-diana-haddad/400/400",
+    "monthlyListeners": 1131161
+  },
+  {
+    "id": "artist-21",
+    "name": "Cheb Khaled",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-cheb-khaled/400/400",
+    "monthlyListeners": 1184380
+  },
+  {
+    "id": "artist-22",
+    "name": "Marwan Khoury",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-marwan-khoury/400/400",
+    "monthlyListeners": 1237599
+  },
+  {
+    "id": "artist-23",
+    "name": "Carole Samaha",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-carole-samaha/400/400",
+    "monthlyListeners": 1290818
+  },
+  {
+    "id": "artist-24",
+    "name": "Ragheb Alama",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-ragheb-alama/400/400",
+    "monthlyListeners": 1344037
+  },
+  {
+    "id": "artist-25",
+    "name": "Majida El Roumi",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-majida-el-roumi/400/400",
+    "monthlyListeners": 1397256
+  },
+  {
+    "id": "artist-26",
+    "name": "Abdullah Al Rowaished",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-abdullah-al-rowaished/400/400",
+    "monthlyListeners": 1450475
+  },
+  {
+    "id": "artist-27",
+    "name": "Mayada El Hennawy",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-mayada-el-hennawy/400/400",
+    "monthlyListeners": 1503694
+  },
+  {
+    "id": "artist-28",
+    "name": "Latifa",
+    "language": "arabic",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-latifa/400/400",
+    "monthlyListeners": 1556913
+  },
+  {
+    "id": "artist-29",
+    "name": "Samira Said",
+    "language": "arabic",
+    "genres": [
+      "Khaleeji"
+    ],
+    "image": "https://picsum.photos/seed/artist-samira-said/400/400",
+    "monthlyListeners": 1610132
+  },
+  {
+    "id": "artist-30",
+    "name": "Kazem Al Saher",
+    "language": "arabic",
+    "genres": [
+      "Tarab"
+    ],
+    "image": "https://picsum.photos/seed/artist-kazem-al-saher/400/400",
+    "monthlyListeners": 1663351
+  },
+  {
+    "id": "artist-31",
+    "name": "Miles Davis",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-miles-davis/400/400",
+    "monthlyListeners": 1716570
+  },
+  {
+    "id": "artist-32",
+    "name": "Ella Fitzgerald",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-ella-fitzgerald/400/400",
+    "monthlyListeners": 1769789
+  },
+  {
+    "id": "artist-33",
+    "name": "Louis Armstrong",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-louis-armstrong/400/400",
+    "monthlyListeners": 1823008
+  },
+  {
+    "id": "artist-34",
+    "name": "Nina Simone",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-nina-simone/400/400",
+    "monthlyListeners": 1876227
+  },
+  {
+    "id": "artist-35",
+    "name": "Stan Getz",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-stan-getz/400/400",
+    "monthlyListeners": 1929446
+  },
+  {
+    "id": "artist-36",
+    "name": "John Coltrane",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-john-coltrane/400/400",
+    "monthlyListeners": 1982665
+  },
+  {
+    "id": "artist-37",
+    "name": "Billie Holiday",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-billie-holiday/400/400",
+    "monthlyListeners": 2035884
+  },
+  {
+    "id": "artist-38",
+    "name": "Diana Krall",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-diana-krall/400/400",
+    "monthlyListeners": 2089103
+  },
+  {
+    "id": "artist-39",
+    "name": "Norah Jones",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-norah-jones/400/400",
+    "monthlyListeners": 2142322
+  },
+  {
+    "id": "artist-40",
+    "name": "Frank Sinatra",
+    "language": "english",
+    "genres": [
+      "Jazz"
+    ],
+    "image": "https://picsum.photos/seed/artist-frank-sinatra/400/400",
+    "monthlyListeners": 2195541
+  },
+  {
+    "id": "artist-41",
+    "name": "Lata Mangeshkar",
+    "language": "hindi",
+    "genres": [
+      "Bollywood"
+    ],
+    "image": "https://picsum.photos/seed/artist-lata-mangeshkar/400/400",
+    "monthlyListeners": 2248760
+  },
+  {
+    "id": "artist-42",
+    "name": "A.R. Rahman",
+    "language": "hindi",
+    "genres": [
+      "Bollywood"
+    ],
+    "image": "https://picsum.photos/seed/artist-a.r.-rahman/400/400",
+    "monthlyListeners": 2301979
+  },
+  {
+    "id": "artist-43",
+    "name": "Kishore Kumar",
+    "language": "hindi",
+    "genres": [
+      "Bollywood"
+    ],
+    "image": "https://picsum.photos/seed/artist-kishore-kumar/400/400",
+    "monthlyListeners": 2355198
+  },
+  {
+    "id": "artist-44",
+    "name": "Adele",
+    "language": "english",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-adele/400/400",
+    "monthlyListeners": 2408417
+  },
+  {
+    "id": "artist-45",
+    "name": "Ed Sheeran",
+    "language": "english",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-ed-sheeran/400/400",
+    "monthlyListeners": 2461636
+  },
+  {
+    "id": "artist-46",
+    "name": "Coldplay",
+    "language": "english",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-coldplay/400/400",
+    "monthlyListeners": 2514855
+  },
+  {
+    "id": "artist-47",
+    "name": "The Weeknd",
+    "language": "english",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-the-weeknd/400/400",
+    "monthlyListeners": 2568074
+  },
+  {
+    "id": "artist-48",
+    "name": "Dua Lipa",
+    "language": "english",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-dua-lipa/400/400",
+    "monthlyListeners": 2621293
+  },
+  {
+    "id": "artist-49",
+    "name": "Michael Bublé",
+    "language": "english",
+    "genres": [
+      "Pop"
+    ],
+    "image": "https://picsum.photos/seed/artist-michael-bublé/400/400",
+    "monthlyListeners": 2674512
+  },
+  {
+    "id": "artist-50",
+    "name": "Bob Marley",
+    "language": "english",
+    "genres": [
+      "Reggae"
+    ],
+    "image": "https://picsum.photos/seed/artist-bob-marley/400/400",
+    "monthlyListeners": 2727731
+  }
+]

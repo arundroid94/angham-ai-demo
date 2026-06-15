@@ -1,0 +1,92 @@
+[
+  {
+    "id": "mood-1",
+    "name": "Relaxing",
+    "emoji": "😌",
+    "image": "https://picsum.photos/seed/mood-relaxing/400/400"
+  },
+  {
+    "id": "mood-2",
+    "name": "Energetic",
+    "emoji": "⚡",
+    "image": "https://picsum.photos/seed/mood-energetic/400/400"
+  },
+  {
+    "id": "mood-3",
+    "name": "Focus",
+    "emoji": "🎯",
+    "image": "https://picsum.photos/seed/mood-focus/400/400"
+  },
+  {
+    "id": "mood-4",
+    "name": "Romantic",
+    "emoji": "❤️",
+    "image": "https://picsum.photos/seed/mood-romantic/400/400"
+  },
+  {
+    "id": "mood-5",
+    "name": "Happy",
+    "emoji": "😄",
+    "image": "https://picsum.photos/seed/mood-happy/400/400"
+  },
+  {
+    "id": "mood-6",
+    "name": "Chill",
+    "emoji": "🍃",
+    "image": "https://picsum.photos/seed/mood-chill/400/400"
+  },
+  {
+    "id": "mood-7",
+    "name": "Workout",
+    "emoji": "💪",
+    "image": "https://picsum.photos/seed/mood-workout/400/400"
+  },
+  {
+    "id": "mood-8",
+    "name": "Sleep",
+    "emoji": "😴",
+    "image": "https://picsum.photos/seed/mood-sleep/400/400"
+  },
+  {
+    "id": "mood-9",
+    "name": "Party",
+    "emoji": "🎉",
+    "image": "https://picsum.photos/seed/mood-party/400/400"
+  },
+  {
+    "id": "mood-10",
+    "name": "Sad",
+    "emoji": "😢",
+    "image": "https://picsum.photos/seed/mood-sad/400/400"
+  },
+  {
+    "id": "mood-11",
+    "name": "Driving",
+    "emoji": "🚗",
+    "image": "https://picsum.photos/seed/mood-driving/400/400"
+  },
+  {
+    "id": "mood-12",
+    "name": "Study",
+    "emoji": "📚",
+    "image": "https://picsum.photos/seed/mood-study/400/400"
+  },
+  {
+    "id": "mood-13",
+    "name": "Morning",
+    "emoji": "🌅",
+    "image": "https://picsum.photos/seed/mood-morning/400/400"
+  },
+  {
+    "id": "mood-14",
+    "name": "Night",
+    "emoji": "🌙",
+    "image": "https://picsum.photos/seed/mood-night/400/400"
+  },
+  {
+    "id": "mood-15",
+    "name": "Spiritual",
+    "emoji": "🕌",
+    "image": "https://picsum.photos/seed/mood-spiritual/400/400"
+  }
+]

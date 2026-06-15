@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "playlist-1",
+    "title": "Arabic Drive",
+    "description": "Relaxing pop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-1/400/400",
+    "language": "arabic",
+    "mood": "Relaxing",
+    "genre": "Pop",
+    "tags": [
+      "arabic",
+      "relaxing",
+      "pop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-2",
+    "title": "Desert Chill",
+    "description": "Energetic khaleeji vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-2/400/400",
+    "language": "arabic",
+    "mood": "Energetic",
+    "genre": "Khaleeji",
+    "tags": [
+      "arabic",
+      "energetic",
+      "khaleeji"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-3",
+    "title": "Khaleeji Nights",
+    "description": "Focus tarab vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-3/400/400",
+    "language": "arabic",
+    "mood": "Focus",
+    "genre": "Tarab",
+    "tags": [
+      "arabic",
+      "focus",
+      "tarab"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-4",
+    "title": "Morning Energy",
+    "description": "Romantic hip hop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-4/400/400",
+    "language": "english",
+    "mood": "Romantic",
+    "genre": "Hip Hop",
+    "tags": [
+      "english",
+      "romantic",
+      "hip hop"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-5",
+    "title": "Relax & Focus",
+    "description": "Happy jazz vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-5/400/400",
+    "language": "english",
+    "mood": "Happy",
+    "genre": "Jazz",
+    "tags": [
+      "english",
+      "happy",
+      "jazz"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-6",
+    "title": "Arabic Hits",
+    "description": "Chill classical vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-6/400/400",
+    "language": "arabic",
+    "mood": "Chill",
+    "genre": "Classical",
+    "tags": [
+      "arabic",
+      "chill",
+      "classical"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-7",
+    "title": "Golden Classics",
+    "description": "Workout electronic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-7/400/400",
+    "language": "english",
+    "mood": "Workout",
+    "genre": "Electronic",
+    "tags": [
+      "english",
+      "workout",
+      "electronic"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-8",
+    "title": "Sunset Vibes",
+    "description": "Sleep rock vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-8/400/400",
+    "language": "english",
+    "mood": "Sleep",
+    "genre": "Rock",
+    "tags": [
+      "english",
+      "sleep",
+      "rock"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-9",
+    "title": "Amr Diab Essentials",
+    "description": "Party r&b vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-9/400/400",
+    "language": "arabic",
+    "mood": "Party",
+    "genre": "R&B",
+    "tags": [
+      "arabic",
+      "party",
+      "r&b"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-10",
+    "title": "Fairuz Mornings",
+    "description": "Sad folk vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-10/400/400",
+    "language": "arabic",
+    "mood": "Sad",
+    "genre": "Folk",
+    "tags": [
+      "arabic",
+      "sad",
+      "folk"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-11",
+    "title": "Tarab Classics",
+    "description": "Driving bollywood vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-11/400/400",
+    "language": "arabic",
+    "mood": "Driving",
+    "genre": "Bollywood",
+    "tags": [
+      "arabic",
+      "driving",
+      "bollywood"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-12",
+    "title": "Cairo Pop",
+    "description": "Study islamic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-12/400/400",
+    "language": "arabic",
+    "mood": "Study",
+    "genre": "Islamic",
+    "tags": [
+      "arabic",
+      "study",
+      "islamic"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-13",
+    "title": "Beirut Nights",
+    "description": "Morning lo-fi vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-13/400/400",
+    "language": "arabic",
+    "mood": "Morning",
+    "genre": "Lo-Fi",
+    "tags": [
+      "arabic",
+      "morning",
+      "lo-fi"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-14",
+    "title": "Arabic Acoustic",
+    "description": "Night reggae vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-14/400/400",
+    "language": "arabic",
+    "mood": "Night",
+    "genre": "Reggae",
+    "tags": [
+      "arabic",
+      "night",
+      "reggae"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-15",
+    "title": "Ramadan Nights",
+    "description": "Spiritual latin vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-15/400/400",
+    "language": "arabic",
+    "mood": "Spiritual",
+    "genre": "Latin",
+    "tags": [
+      "arabic",
+      "spiritual",
+      "latin"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-16",
+    "title": "Oud & Strings",
+    "description": "Relaxing pop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-16/400/400",
+    "language": "arabic",
+    "mood": "Relaxing",
+    "genre": "Pop",
+    "tags": [
+      "arabic",
+      "relaxing",
+      "pop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-17",
+    "title": "Arabic Vibes",
+    "description": "Energetic khaleeji vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-17/400/400",
+    "language": "arabic",
+    "mood": "Energetic",
+    "genre": "Khaleeji",
+    "tags": [
+      "arabic",
+      "energetic",
+      "khaleeji"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-18",
+    "title": "Arabic Nights",
+    "description": "Focus tarab vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-18/400/400",
+    "language": "arabic",
+    "mood": "Focus",
+    "genre": "Tarab",
+    "tags": [
+      "arabic",
+      "focus",
+      "tarab"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-19",
+    "title": "Arabic Mix",
+    "description": "Romantic hip hop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-19/400/400",
+    "language": "arabic",
+    "mood": "Romantic",
+    "genre": "Hip Hop",
+    "tags": [
+      "arabic",
+      "romantic",
+      "hip hop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-20",
+    "title": "Arabic Sessions",
+    "description": "Happy jazz vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-20/400/400",
+    "language": "arabic",
+    "mood": "Happy",
+    "genre": "Jazz",
+    "tags": [
+      "arabic",
+      "happy",
+      "jazz"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-21",
+    "title": "Arabic Essentials",
+    "description": "Chill classical vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-21/400/400",
+    "language": "arabic",
+    "mood": "Chill",
+    "genre": "Classical",
+    "tags": [
+      "arabic",
+      "chill",
+      "classical"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-22",
+    "title": "Arabic Lounge",
+    "description": "Workout electronic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-22/400/400",
+    "language": "arabic",
+    "mood": "Workout",
+    "genre": "Electronic",
+    "tags": [
+      "arabic",
+      "workout",
+      "electronic"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-23",
+    "title": "Arabic Grooves",
+    "description": "Sleep rock vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-23/400/400",
+    "language": "arabic",
+    "mood": "Sleep",
+    "genre": "Rock",
+    "tags": [
+      "arabic",
+      "sleep",
+      "rock"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-24",
+    "title": "Arabic Flow",
+    "description": "Party r&b vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-24/400/400",
+    "language": "arabic",
+    "mood": "Party",
+    "genre": "R&B",
+    "tags": [
+      "arabic",
+      "party",
+      "r&b"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-25",
+    "title": "Arabic Energy",
+    "description": "Sad folk vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-25/400/400",
+    "language": "arabic",
+    "mood": "Sad",
+    "genre": "Folk",
+    "tags": [
+      "arabic",
+      "sad",
+      "folk"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-26",
+    "title": "Khaleeji Vibes",
+    "description": "Driving bollywood vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-26/400/400",
+    "language": "arabic",
+    "mood": "Driving",
+    "genre": "Bollywood",
+    "tags": [
+      "arabic",
+      "driving",
+      "bollywood"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-27",
+    "title": "Khaleeji Hits",
+    "description": "Study islamic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-27/400/400",
+    "language": "arabic",
+    "mood": "Study",
+    "genre": "Islamic",
+    "tags": [
+      "arabic",
+      "study",
+      "islamic"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-28",
+    "title": "Khaleeji Mix",
+    "description": "Morning lo-fi vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-28/400/400",
+    "language": "arabic",
+    "mood": "Morning",
+    "genre": "Lo-Fi",
+    "tags": [
+      "arabic",
+      "morning",
+      "lo-fi"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-29",
+    "title": "Khaleeji Sessions",
+    "description": "Night reggae vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-29/400/400",
+    "language": "arabic",
+    "mood": "Night",
+    "genre": "Reggae",
+    "tags": [
+      "arabic",
+      "night",
+      "reggae"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-30",
+    "title": "Khaleeji Essentials",
+    "description": "Spiritual latin vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-30/400/400",
+    "language": "arabic",
+    "mood": "Spiritual",
+    "genre": "Latin",
+    "tags": [
+      "arabic",
+      "spiritual",
+      "latin"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-31",
+    "title": "Khaleeji Lounge",
+    "description": "Relaxing pop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-31/400/400",
+    "language": "arabic",
+    "mood": "Relaxing",
+    "genre": "Pop",
+    "tags": [
+      "arabic",
+      "relaxing",
+      "pop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-32",
+    "title": "Khaleeji Grooves",
+    "description": "Energetic khaleeji vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-32/400/400",
+    "language": "arabic",
+    "mood": "Energetic",
+    "genre": "Khaleeji",
+    "tags": [
+      "arabic",
+      "energetic",
+      "khaleeji"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-33",
+    "title": "Khaleeji Flow",
+    "description": "Focus tarab vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-33/400/400",
+    "language": "arabic",
+    "mood": "Focus",
+    "genre": "Tarab",
+    "tags": [
+      "arabic",
+      "focus",
+      "tarab"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-34",
+    "title": "Khaleeji Energy",
+    "description": "Romantic hip hop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-34/400/400",
+    "language": "arabic",
+    "mood": "Romantic",
+    "genre": "Hip Hop",
+    "tags": [
+      "arabic",
+      "romantic",
+      "hip hop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-35",
+    "title": "Desert Vibes",
+    "description": "Happy jazz vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-35/400/400",
+    "language": "arabic",
+    "mood": "Happy",
+    "genre": "Jazz",
+    "tags": [
+      "arabic",
+      "happy",
+      "jazz"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-36",
+    "title": "Desert Nights",
+    "description": "Chill classical vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-36/400/400",
+    "language": "arabic",
+    "mood": "Chill",
+    "genre": "Classical",
+    "tags": [
+      "arabic",
+      "chill",
+      "classical"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-37",
+    "title": "Desert Hits",
+    "description": "Workout electronic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-37/400/400",
+    "language": "arabic",
+    "mood": "Workout",
+    "genre": "Electronic",
+    "tags": [
+      "arabic",
+      "workout",
+      "electronic"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-38",
+    "title": "Desert Mix",
+    "description": "Sleep rock vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-38/400/400",
+    "language": "arabic",
+    "mood": "Sleep",
+    "genre": "Rock",
+    "tags": [
+      "arabic",
+      "sleep",
+      "rock"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-39",
+    "title": "Desert Sessions",
+    "description": "Party r&b vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-39/400/400",
+    "language": "arabic",
+    "mood": "Party",
+    "genre": "R&B",
+    "tags": [
+      "arabic",
+      "party",
+      "r&b"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-40",
+    "title": "Desert Essentials",
+    "description": "Sad folk vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-40/400/400",
+    "language": "arabic",
+    "mood": "Sad",
+    "genre": "Folk",
+    "tags": [
+      "arabic",
+      "sad",
+      "folk"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-41",
+    "title": "Desert Lounge",
+    "description": "Driving bollywood vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-41/400/400",
+    "language": "arabic",
+    "mood": "Driving",
+    "genre": "Bollywood",
+    "tags": [
+      "arabic",
+      "driving",
+      "bollywood"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-42",
+    "title": "Desert Grooves",
+    "description": "Study islamic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-42/400/400",
+    "language": "arabic",
+    "mood": "Study",
+    "genre": "Islamic",
+    "tags": [
+      "arabic",
+      "study",
+      "islamic"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-43",
+    "title": "Desert Flow",
+    "description": "Morning lo-fi vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-43/400/400",
+    "language": "arabic",
+    "mood": "Morning",
+    "genre": "Lo-Fi",
+    "tags": [
+      "arabic",
+      "morning",
+      "lo-fi"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-44",
+    "title": "Desert Energy",
+    "description": "Night reggae vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-44/400/400",
+    "language": "arabic",
+    "mood": "Night",
+    "genre": "Reggae",
+    "tags": [
+      "arabic",
+      "night",
+      "reggae"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-45",
+    "title": "Sunset Nights",
+    "description": "Spiritual latin vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-45/400/400",
+    "language": "english",
+    "mood": "Spiritual",
+    "genre": "Latin",
+    "tags": [
+      "english",
+      "spiritual",
+      "latin"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-46",
+    "title": "Sunset Hits",
+    "description": "Relaxing pop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-46/400/400",
+    "language": "english",
+    "mood": "Relaxing",
+    "genre": "Pop",
+    "tags": [
+      "english",
+      "relaxing",
+      "pop"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-47",
+    "title": "Sunset Mix",
+    "description": "Energetic khaleeji vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-47/400/400",
+    "language": "english",
+    "mood": "Energetic",
+    "genre": "Khaleeji",
+    "tags": [
+      "english",
+      "energetic",
+      "khaleeji"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-48",
+    "title": "Sunset Sessions",
+    "description": "Focus tarab vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-48/400/400",
+    "language": "english",
+    "mood": "Focus",
+    "genre": "Tarab",
+    "tags": [
+      "english",
+      "focus",
+      "tarab"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-49",
+    "title": "Sunset Essentials",
+    "description": "Romantic hip hop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-49/400/400",
+    "language": "english",
+    "mood": "Romantic",
+    "genre": "Hip Hop",
+    "tags": [
+      "english",
+      "romantic",
+      "hip hop"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-50",
+    "title": "Sunset Lounge",
+    "description": "Happy jazz vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-50/400/400",
+    "language": "english",
+    "mood": "Happy",
+    "genre": "Jazz",
+    "tags": [
+      "english",
+      "happy",
+      "jazz"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-51",
+    "title": "Sunset Grooves",
+    "description": "Chill classical vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-51/400/400",
+    "language": "english",
+    "mood": "Chill",
+    "genre": "Classical",
+    "tags": [
+      "english",
+      "chill",
+      "classical"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-52",
+    "title": "Sunset Flow",
+    "description": "Workout electronic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-52/400/400",
+    "language": "english",
+    "mood": "Workout",
+    "genre": "Electronic",
+    "tags": [
+      "english",
+      "workout",
+      "electronic"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-53",
+    "title": "Sunset Energy",
+    "description": "Sleep rock vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-53/400/400",
+    "language": "english",
+    "mood": "Sleep",
+    "genre": "Rock",
+    "tags": [
+      "english",
+      "sleep",
+      "rock"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-54",
+    "title": "Late Night Vibes",
+    "description": "Party r&b vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-54/400/400",
+    "language": "english",
+    "mood": "Party",
+    "genre": "R&B",
+    "tags": [
+      "english",
+      "party",
+      "r&b"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-55",
+    "title": "Late Night Nights",
+    "description": "Sad folk vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-55/400/400",
+    "language": "english",
+    "mood": "Sad",
+    "genre": "Folk",
+    "tags": [
+      "english",
+      "sad",
+      "folk"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-56",
+    "title": "Late Night Hits",
+    "description": "Driving bollywood vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-56/400/400",
+    "language": "english",
+    "mood": "Driving",
+    "genre": "Bollywood",
+    "tags": [
+      "english",
+      "driving",
+      "bollywood"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-57",
+    "title": "Late Night Mix",
+    "description": "Study islamic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-57/400/400",
+    "language": "english",
+    "mood": "Study",
+    "genre": "Islamic",
+    "tags": [
+      "english",
+      "study",
+      "islamic"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-58",
+    "title": "Late Night Sessions",
+    "description": "Morning lo-fi vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-58/400/400",
+    "language": "english",
+    "mood": "Morning",
+    "genre": "Lo-Fi",
+    "tags": [
+      "english",
+      "morning",
+      "lo-fi"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-59",
+    "title": "Late Night Essentials",
+    "description": "Night reggae vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-59/400/400",
+    "language": "english",
+    "mood": "Night",
+    "genre": "Reggae",
+    "tags": [
+      "english",
+      "night",
+      "reggae"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-60",
+    "title": "Late Night Lounge",
+    "description": "Spiritual latin vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-60/400/400",
+    "language": "english",
+    "mood": "Spiritual",
+    "genre": "Latin",
+    "tags": [
+      "english",
+      "spiritual",
+      "latin"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-61",
+    "title": "Late Night Grooves",
+    "description": "Relaxing pop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-61/400/400",
+    "language": "english",
+    "mood": "Relaxing",
+    "genre": "Pop",
+    "tags": [
+      "english",
+      "relaxing",
+      "pop"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-62",
+    "title": "Late Night Flow",
+    "description": "Energetic khaleeji vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-62/400/400",
+    "language": "english",
+    "mood": "Energetic",
+    "genre": "Khaleeji",
+    "tags": [
+      "english",
+      "energetic",
+      "khaleeji"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-63",
+    "title": "Late Night Energy",
+    "description": "Focus tarab vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-63/400/400",
+    "language": "english",
+    "mood": "Focus",
+    "genre": "Tarab",
+    "tags": [
+      "english",
+      "focus",
+      "tarab"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-64",
+    "title": "Morning Vibes",
+    "description": "Romantic hip hop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-64/400/400",
+    "language": "english",
+    "mood": "Romantic",
+    "genre": "Hip Hop",
+    "tags": [
+      "english",
+      "romantic",
+      "hip hop"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-65",
+    "title": "Morning Nights",
+    "description": "Happy jazz vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-65/400/400",
+    "language": "english",
+    "mood": "Happy",
+    "genre": "Jazz",
+    "tags": [
+      "english",
+      "happy",
+      "jazz"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-66",
+    "title": "Morning Hits",
+    "description": "Chill classical vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-66/400/400",
+    "language": "english",
+    "mood": "Chill",
+    "genre": "Classical",
+    "tags": [
+      "english",
+      "chill",
+      "classical"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-67",
+    "title": "Morning Mix",
+    "description": "Workout electronic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-67/400/400",
+    "language": "english",
+    "mood": "Workout",
+    "genre": "Electronic",
+    "tags": [
+      "english",
+      "workout",
+      "electronic"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-68",
+    "title": "Morning Sessions",
+    "description": "Sleep rock vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-68/400/400",
+    "language": "english",
+    "mood": "Sleep",
+    "genre": "Rock",
+    "tags": [
+      "english",
+      "sleep",
+      "rock"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-69",
+    "title": "Morning Essentials",
+    "description": "Party r&b vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-69/400/400",
+    "language": "english",
+    "mood": "Party",
+    "genre": "R&B",
+    "tags": [
+      "english",
+      "party",
+      "r&b"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-70",
+    "title": "Morning Lounge",
+    "description": "Sad folk vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-70/400/400",
+    "language": "english",
+    "mood": "Sad",
+    "genre": "Folk",
+    "tags": [
+      "english",
+      "sad",
+      "folk"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-71",
+    "title": "Morning Grooves",
+    "description": "Driving bollywood vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-71/400/400",
+    "language": "english",
+    "mood": "Driving",
+    "genre": "Bollywood",
+    "tags": [
+      "english",
+      "driving",
+      "bollywood"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-72",
+    "title": "Morning Flow",
+    "description": "Study islamic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-72/400/400",
+    "language": "english",
+    "mood": "Study",
+    "genre": "Islamic",
+    "tags": [
+      "english",
+      "study",
+      "islamic"
+    ],
+    "songIds": [
+      "song-3",
+      "song-4",
+      "song-5",
+      "song-1",
+      "song-2"
+    ]
+  },
+  {
+    "id": "playlist-73",
+    "title": "Ramadan Vibes",
+    "description": "Morning lo-fi vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-73/400/400",
+    "language": "arabic",
+    "mood": "Morning",
+    "genre": "Lo-Fi",
+    "tags": [
+      "arabic",
+      "morning",
+      "lo-fi"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-74",
+    "title": "Ramadan Hits",
+    "description": "Night reggae vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-74/400/400",
+    "language": "arabic",
+    "mood": "Night",
+    "genre": "Reggae",
+    "tags": [
+      "arabic",
+      "night",
+      "reggae"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-75",
+    "title": "Ramadan Mix",
+    "description": "Spiritual latin vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-75/400/400",
+    "language": "arabic",
+    "mood": "Spiritual",
+    "genre": "Latin",
+    "tags": [
+      "arabic",
+      "spiritual",
+      "latin"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-76",
+    "title": "Ramadan Sessions",
+    "description": "Relaxing pop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-76/400/400",
+    "language": "arabic",
+    "mood": "Relaxing",
+    "genre": "Pop",
+    "tags": [
+      "arabic",
+      "relaxing",
+      "pop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-77",
+    "title": "Ramadan Essentials",
+    "description": "Energetic khaleeji vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-77/400/400",
+    "language": "arabic",
+    "mood": "Energetic",
+    "genre": "Khaleeji",
+    "tags": [
+      "arabic",
+      "energetic",
+      "khaleeji"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-78",
+    "title": "Ramadan Lounge",
+    "description": "Focus tarab vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-78/400/400",
+    "language": "arabic",
+    "mood": "Focus",
+    "genre": "Tarab",
+    "tags": [
+      "arabic",
+      "focus",
+      "tarab"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-79",
+    "title": "Ramadan Grooves",
+    "description": "Romantic hip hop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-79/400/400",
+    "language": "arabic",
+    "mood": "Romantic",
+    "genre": "Hip Hop",
+    "tags": [
+      "arabic",
+      "romantic",
+      "hip hop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-80",
+    "title": "Ramadan Flow",
+    "description": "Happy jazz vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-80/400/400",
+    "language": "arabic",
+    "mood": "Happy",
+    "genre": "Jazz",
+    "tags": [
+      "arabic",
+      "happy",
+      "jazz"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-81",
+    "title": "Ramadan Energy",
+    "description": "Chill classical vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-81/400/400",
+    "language": "arabic",
+    "mood": "Chill",
+    "genre": "Classical",
+    "tags": [
+      "arabic",
+      "chill",
+      "classical"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-82",
+    "title": "Beirut Vibes",
+    "description": "Workout electronic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-82/400/400",
+    "language": "arabic",
+    "mood": "Workout",
+    "genre": "Electronic",
+    "tags": [
+      "arabic",
+      "workout",
+      "electronic"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-83",
+    "title": "Beirut Hits",
+    "description": "Sleep rock vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-83/400/400",
+    "language": "arabic",
+    "mood": "Sleep",
+    "genre": "Rock",
+    "tags": [
+      "arabic",
+      "sleep",
+      "rock"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-84",
+    "title": "Beirut Mix",
+    "description": "Party r&b vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-84/400/400",
+    "language": "arabic",
+    "mood": "Party",
+    "genre": "R&B",
+    "tags": [
+      "arabic",
+      "party",
+      "r&b"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-85",
+    "title": "Beirut Sessions",
+    "description": "Sad folk vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-85/400/400",
+    "language": "arabic",
+    "mood": "Sad",
+    "genre": "Folk",
+    "tags": [
+      "arabic",
+      "sad",
+      "folk"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-86",
+    "title": "Beirut Essentials",
+    "description": "Driving bollywood vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-86/400/400",
+    "language": "arabic",
+    "mood": "Driving",
+    "genre": "Bollywood",
+    "tags": [
+      "arabic",
+      "driving",
+      "bollywood"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-87",
+    "title": "Beirut Lounge",
+    "description": "Study islamic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-87/400/400",
+    "language": "arabic",
+    "mood": "Study",
+    "genre": "Islamic",
+    "tags": [
+      "arabic",
+      "study",
+      "islamic"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-88",
+    "title": "Beirut Grooves",
+    "description": "Morning lo-fi vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-88/400/400",
+    "language": "arabic",
+    "mood": "Morning",
+    "genre": "Lo-Fi",
+    "tags": [
+      "arabic",
+      "morning",
+      "lo-fi"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-89",
+    "title": "Beirut Flow",
+    "description": "Night reggae vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-89/400/400",
+    "language": "arabic",
+    "mood": "Night",
+    "genre": "Reggae",
+    "tags": [
+      "arabic",
+      "night",
+      "reggae"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-90",
+    "title": "Beirut Energy",
+    "description": "Spiritual latin vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-90/400/400",
+    "language": "arabic",
+    "mood": "Spiritual",
+    "genre": "Latin",
+    "tags": [
+      "arabic",
+      "spiritual",
+      "latin"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-91",
+    "title": "Cairo Vibes",
+    "description": "Relaxing pop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-91/400/400",
+    "language": "arabic",
+    "mood": "Relaxing",
+    "genre": "Pop",
+    "tags": [
+      "arabic",
+      "relaxing",
+      "pop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-92",
+    "title": "Cairo Nights",
+    "description": "Energetic khaleeji vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-92/400/400",
+    "language": "arabic",
+    "mood": "Energetic",
+    "genre": "Khaleeji",
+    "tags": [
+      "arabic",
+      "energetic",
+      "khaleeji"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-93",
+    "title": "Cairo Hits",
+    "description": "Focus tarab vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-93/400/400",
+    "language": "arabic",
+    "mood": "Focus",
+    "genre": "Tarab",
+    "tags": [
+      "arabic",
+      "focus",
+      "tarab"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-94",
+    "title": "Cairo Mix",
+    "description": "Romantic hip hop vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-94/400/400",
+    "language": "arabic",
+    "mood": "Romantic",
+    "genre": "Hip Hop",
+    "tags": [
+      "arabic",
+      "romantic",
+      "hip hop"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-95",
+    "title": "Cairo Sessions",
+    "description": "Happy jazz vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-95/400/400",
+    "language": "arabic",
+    "mood": "Happy",
+    "genre": "Jazz",
+    "tags": [
+      "arabic",
+      "happy",
+      "jazz"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-96",
+    "title": "Cairo Essentials",
+    "description": "Chill classical vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-96/400/400",
+    "language": "arabic",
+    "mood": "Chill",
+    "genre": "Classical",
+    "tags": [
+      "arabic",
+      "chill",
+      "classical"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-97",
+    "title": "Cairo Lounge",
+    "description": "Workout electronic vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-97/400/400",
+    "language": "arabic",
+    "mood": "Workout",
+    "genre": "Electronic",
+    "tags": [
+      "arabic",
+      "workout",
+      "electronic"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-98",
+    "title": "Cairo Grooves",
+    "description": "Sleep rock vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-98/400/400",
+    "language": "arabic",
+    "mood": "Sleep",
+    "genre": "Rock",
+    "tags": [
+      "arabic",
+      "sleep",
+      "rock"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-99",
+    "title": "Cairo Flow",
+    "description": "Party r&b vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-99/400/400",
+    "language": "arabic",
+    "mood": "Party",
+    "genre": "R&B",
+    "tags": [
+      "arabic",
+      "party",
+      "r&b"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  },
+  {
+    "id": "playlist-100",
+    "title": "Cairo Energy",
+    "description": "Sad folk vibes",
+    "cover": "https://picsum.photos/seed/pl-playlist-100/400/400",
+    "language": "arabic",
+    "mood": "Sad",
+    "genre": "Folk",
+    "tags": [
+      "arabic",
+      "sad",
+      "folk"
+    ],
+    "songIds": [
+      "song-1",
+      "song-2",
+      "song-3",
+      "song-4",
+      "song-5"
+    ]
+  }
+]

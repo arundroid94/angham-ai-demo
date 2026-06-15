@@ -1,0 +1,77 @@
+[
+  {
+    "id": "genre-1",
+    "name": "Pop",
+    "image": "https://picsum.photos/seed/genre-pop/400/400"
+  },
+  {
+    "id": "genre-2",
+    "name": "Khaleeji",
+    "image": "https://picsum.photos/seed/genre-khaleeji/400/400"
+  },
+  {
+    "id": "genre-3",
+    "name": "Tarab",
+    "image": "https://picsum.photos/seed/genre-tarab/400/400"
+  },
+  {
+    "id": "genre-4",
+    "name": "Hip Hop",
+    "image": "https://picsum.photos/seed/genre-hip-hop/400/400"
+  },
+  {
+    "id": "genre-5",
+    "name": "Jazz",
+    "image": "https://picsum.photos/seed/genre-jazz/400/400"
+  },
+  {
+    "id": "genre-6",
+    "name": "Classical",
+    "image": "https://picsum.photos/seed/genre-classical/400/400"
+  },
+  {
+    "id": "genre-7",
+    "name": "Electronic",
+    "image": "https://picsum.photos/seed/genre-electronic/400/400"
+  },
+  {
+    "id": "genre-8",
+    "name": "Rock",
+    "image": "https://picsum.photos/seed/genre-rock/400/400"
+  },
+  {
+    "id": "genre-9",
+    "name": "R&B",
+    "image": "https://picsum.photos/seed/genre-r&b/400/400"
+  },
+  {
+    "id": "genre-10",
+    "name": "Folk",
+    "image": "https://picsum.photos/seed/genre-folk/400/400"
+  },
+  {
+    "id": "genre-11",
+    "name": "Bollywood",
+    "image": "https://picsum.photos/seed/genre-bollywood/400/400"
+  },
+  {
+    "id": "genre-12",
+    "name": "Islamic",
+    "image": "https://picsum.photos/seed/genre-islamic/400/400"
+  },
+  {
+    "id": "genre-13",
+    "name": "Lo-Fi",
+    "image": "https://picsum.photos/seed/genre-lo-fi/400/400"
+  },
+  {
+    "id": "genre-14",
+    "name": "Reggae",
+    "image": "https://picsum.photos/seed/genre-reggae/400/400"
+  },
+  {
+    "id": "genre-15",
+    "name": "Latin",
+    "image": "https://picsum.photos/seed/genre-latin/400/400"
+  }
+]

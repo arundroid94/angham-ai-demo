@@ -1,0 +1,16 @@
+{
+  "name": "anghami-ai-demo",
+  "version": "1.0.0",
+  "description": "Anghami AI Companion Demo - voice-first music discovery with Agora Conversational AI",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "agora-token": "^2.0.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2"
+  }
+}

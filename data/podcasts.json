@@ -1,0 +1,1742 @@
+[
+  {
+    "id": "podcast-1",
+    "title": "Sports Majlis",
+    "host": "Sara Al-Amri",
+    "category": "Sports",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-1/400/400",
+    "episodes": [
+      {
+        "id": "podcast-1-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-1-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-1-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-1-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-1-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-1-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-2",
+    "title": "Kalam Riyadi",
+    "host": "Omar Khalil",
+    "category": "Sports",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-2/400/400",
+    "episodes": [
+      {
+        "id": "podcast-2-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-2-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-2-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-2-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-2-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-2-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-2-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-3",
+    "title": "Tech in Arabic",
+    "host": "Layla Hassan",
+    "category": "Technology",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-3/400/400",
+    "episodes": [
+      {
+        "id": "podcast-3-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-3-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-3-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-3-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-3-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-3-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-3-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-3-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/english-3.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-4",
+    "title": "The Culture Cast",
+    "host": "Yusuf Rahman",
+    "category": "Culture",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-4/400/400",
+    "episodes": [
+      {
+        "id": "podcast-4-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-4-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-4-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-4-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-4-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-4-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-4-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-4-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-4-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/arabic-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-5",
+    "title": "Daily Khaleeji",
+    "host": "Mariam Saleh",
+    "category": "News",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-5/400/400",
+    "episodes": [
+      {
+        "id": "podcast-5-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-5-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-5-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-5-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-5-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-5-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-5-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-5-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-5-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-5-ep-10",
+        "title": "Episode 10",
+        "duration": 1833,
+        "file": "/audio/english-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-6",
+    "title": "Mindful Mornings",
+    "host": "Khalid Nasser",
+    "category": "Health",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-6/400/400",
+    "episodes": [
+      {
+        "id": "podcast-6-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-6-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-6-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-6-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-6-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-6-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-7",
+    "title": "Business Now",
+    "host": "Dana Fahad",
+    "category": "Business",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-7/400/400",
+    "episodes": [
+      {
+        "id": "podcast-7-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-7-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-7-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-7-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-7-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-7-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-7-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-8",
+    "title": "Health Talks",
+    "host": "Tariq Aziz",
+    "category": "Health",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-8/400/400",
+    "episodes": [
+      {
+        "id": "podcast-8-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-8-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-8-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-8-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-8-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-8-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-8-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-8-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/english-3.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-9",
+    "title": "Faith & Life",
+    "host": "Sara Al-Amri",
+    "category": "Religion",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-9/400/400",
+    "episodes": [
+      {
+        "id": "podcast-9-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-9-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-9-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-9-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-9-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-9-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-9-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-9-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-9-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/arabic-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-10",
+    "title": "Comedy Hour",
+    "host": "Omar Khalil",
+    "category": "Comedy",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-10/400/400",
+    "episodes": [
+      {
+        "id": "podcast-10-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-10-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-10-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-10-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-10-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-10-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-10-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-10-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-10-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-10-ep-10",
+        "title": "Episode 10",
+        "duration": 1833,
+        "file": "/audio/english-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-11",
+    "title": "Morning News Brief",
+    "host": "Layla Hassan",
+    "category": "News",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-11/400/400",
+    "episodes": [
+      {
+        "id": "podcast-11-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-11-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-11-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-11-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-11-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-11-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-12",
+    "title": "Startup Stories",
+    "host": "Yusuf Rahman",
+    "category": "Business",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-12/400/400",
+    "episodes": [
+      {
+        "id": "podcast-12-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-12-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-12-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-12-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-12-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-12-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-12-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-13",
+    "title": "History Unfolded",
+    "host": "Mariam Saleh",
+    "category": "Education",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-13/400/400",
+    "episodes": [
+      {
+        "id": "podcast-13-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-13-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-13-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-13-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-13-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-13-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-13-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-13-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/english-3.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-14",
+    "title": "Crime Files",
+    "host": "Khalid Nasser",
+    "category": "True Crime",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-14/400/400",
+    "episodes": [
+      {
+        "id": "podcast-14-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-14-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-14-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-14-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-14-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-14-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-14-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-14-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-14-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/arabic-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-15",
+    "title": "Science Simplified",
+    "host": "Dana Fahad",
+    "category": "Education",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-15/400/400",
+    "episodes": [
+      {
+        "id": "podcast-15-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-15-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-15-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-15-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-15-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-15-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-15-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-15-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-15-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-15-ep-10",
+        "title": "Episode 10",
+        "duration": 1833,
+        "file": "/audio/english-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-16",
+    "title": "The Football Show",
+    "host": "Tariq Aziz",
+    "category": "Sports",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-16/400/400",
+    "episodes": [
+      {
+        "id": "podcast-16-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-16-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-16-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-16-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-16-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-16-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-17",
+    "title": "Wellness Weekly",
+    "host": "Sara Al-Amri",
+    "category": "Health",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-17/400/400",
+    "episodes": [
+      {
+        "id": "podcast-17-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-17-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-17-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-17-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-17-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-17-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-17-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-18",
+    "title": "Money Matters",
+    "host": "Omar Khalil",
+    "category": "Business",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-18/400/400",
+    "episodes": [
+      {
+        "id": "podcast-18-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-18-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-18-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-18-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-18-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-18-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-18-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-18-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/english-3.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-19",
+    "title": "Deen Daily",
+    "host": "Layla Hassan",
+    "category": "Religion",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-19/400/400",
+    "episodes": [
+      {
+        "id": "podcast-19-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-19-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-19-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-19-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-19-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-19-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-19-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-19-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-19-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/arabic-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-20",
+    "title": "Laugh Lounge",
+    "host": "Yusuf Rahman",
+    "category": "Comedy",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-20/400/400",
+    "episodes": [
+      {
+        "id": "podcast-20-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-20-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-20-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-20-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-20-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-20-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-20-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-20-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-20-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-20-ep-10",
+        "title": "Episode 10",
+        "duration": 1833,
+        "file": "/audio/english-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-21",
+    "title": "Gulf Voices",
+    "host": "Mariam Saleh",
+    "category": "Culture",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-21/400/400",
+    "episodes": [
+      {
+        "id": "podcast-21-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-21-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-21-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-21-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-21-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-21-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-22",
+    "title": "Cinema Talk",
+    "host": "Khalid Nasser",
+    "category": "Culture",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-22/400/400",
+    "episodes": [
+      {
+        "id": "podcast-22-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-22-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-22-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-22-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-22-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-22-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-22-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-23",
+    "title": "Quran Reflections",
+    "host": "Dana Fahad",
+    "category": "Religion",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-23/400/400",
+    "episodes": [
+      {
+        "id": "podcast-23-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-23-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-23-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-23-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-23-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-23-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-23-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-23-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/english-3.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-24",
+    "title": "Tech Trends",
+    "host": "Tariq Aziz",
+    "category": "Technology",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-24/400/400",
+    "episodes": [
+      {
+        "id": "podcast-24-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-24-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-24-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-24-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-24-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-24-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-24-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-24-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-24-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/arabic-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-25",
+    "title": "Athlete Diaries",
+    "host": "Sara Al-Amri",
+    "category": "Sports",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-25/400/400",
+    "episodes": [
+      {
+        "id": "podcast-25-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-25-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-25-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-25-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-25-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-25-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-25-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-25-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-25-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-25-ep-10",
+        "title": "Episode 10",
+        "duration": 1833,
+        "file": "/audio/english-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-26",
+    "title": "Mind & Body",
+    "host": "Omar Khalil",
+    "category": "Health",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-26/400/400",
+    "episodes": [
+      {
+        "id": "podcast-26-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-26-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-26-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-26-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-26-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-26-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-27",
+    "title": "Global Affairs",
+    "host": "Layla Hassan",
+    "category": "News",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-27/400/400",
+    "episodes": [
+      {
+        "id": "podcast-27-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-27-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-27-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-27-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-27-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-27-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-27-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-1.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-28",
+    "title": "The Founder",
+    "host": "Yusuf Rahman",
+    "category": "Business",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-28/400/400",
+    "episodes": [
+      {
+        "id": "podcast-28-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-28-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-28-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-28-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-28-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-28-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-28-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-28-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/english-3.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-29",
+    "title": "Untold Mysteries",
+    "host": "Mariam Saleh",
+    "category": "True Crime",
+    "language": "arabic",
+    "image": "https://picsum.photos/seed/pod-29/400/400",
+    "episodes": [
+      {
+        "id": "podcast-29-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-29-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-29-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-29-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-29-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-29-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-29-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-29-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-29-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/arabic-2.mp3"
+      }
+    ]
+  },
+  {
+    "id": "podcast-30",
+    "title": "Learn Arabic",
+    "host": "Khalid Nasser",
+    "category": "Education",
+    "language": "english",
+    "image": "https://picsum.photos/seed/pod-30/400/400",
+    "episodes": [
+      {
+        "id": "podcast-30-ep-1",
+        "title": "Episode 1",
+        "duration": 600,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-30-ep-2",
+        "title": "Episode 2",
+        "duration": 737,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-30-ep-3",
+        "title": "Episode 3",
+        "duration": 874,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-30-ep-4",
+        "title": "Episode 4",
+        "duration": 1011,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-30-ep-5",
+        "title": "Episode 5",
+        "duration": 1148,
+        "file": "/audio/english-2.mp3"
+      },
+      {
+        "id": "podcast-30-ep-6",
+        "title": "Episode 6",
+        "duration": 1285,
+        "file": "/audio/english-3.mp3"
+      },
+      {
+        "id": "podcast-30-ep-7",
+        "title": "Episode 7",
+        "duration": 1422,
+        "file": "/audio/arabic-1.mp3"
+      },
+      {
+        "id": "podcast-30-ep-8",
+        "title": "Episode 8",
+        "duration": 1559,
+        "file": "/audio/arabic-2.mp3"
+      },
+      {
+        "id": "podcast-30-ep-9",
+        "title": "Episode 9",
+        "duration": 1696,
+        "file": "/audio/english-1.mp3"
+      },
+      {
+        "id": "podcast-30-ep-10",
+        "title": "Episode 10",
+        "duration": 1833,
+        "file": "/audio/english-2.mp3"
+      }
+    ]
+  }
+]
