@@ -247,7 +247,7 @@ document.addEventListener("keydown", (e) => {
   if (e.key === "Escape" && !VoiceSession.isActive() && voiceDock.classList.contains("open")) {
     voiceDock.classList.remove("open");
     setState(null);
-    micLabel.textContent = "Ask Aura";
+    micLabel.textContent = "Ask Angham";
   }
 });
 
@@ -283,7 +283,7 @@ async function handleQuery(query) {
 
   timers.push(setTimeout(() => {
     setState(null);
-    micLabel.textContent = "Ask Anghami AI";
+    micLabel.textContent = "Ask Angham AI";
     voiceDock.classList.remove("open");
   }, 3500));
 }

@@ -1,4 +1,4 @@
-// server.js — Anghami AI Companion Demo backend
+// server.js — Angham AI Companion Demo backend
 
 require("dotenv").config();
 const express = require("express");
@@ -18,7 +18,7 @@ app.use("/api/intent", intentRouter);
 app.use("/api/agora", agoraRouter);
 
 app.get("/api/health", (req, res) => {
-  res.json({ status: "ok", message: "Aura AI backend is alive 🎵" });
+  res.json({ status: "ok", message: "Angham AI backend is alive 🎵" });
 });
 
 app.listen(PORT, () => console.log(`✅ Server running at http://localhost:${PORT}`));

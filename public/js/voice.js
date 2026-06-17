@@ -1,4 +1,4 @@
-// voice.js — live voice session with Aura (Agora RTC + Conversational AI agent).
+// voice.js — live voice session with Angham (Agora RTC + Conversational AI agent).
 
 const VoiceSession = (function () {
 
@@ -52,7 +52,7 @@ const VoiceSession = (function () {
         if (!active) return;
         const agentSpeaking = volumes.some((v) => v.uid !== uid && v.level > 5);
         setState(agentSpeaking ? "speaking" : "listening",
-                 agentSpeaking ? "Aura is speaking…" : "Listening… talk to Aura");
+                 agentSpeaking ? "Angham is speaking…" : "Listening… talk to Angham");
       });
 
       await client.join(appId, channel, token, uid);
@@ -62,13 +62,13 @@ const VoiceSession = (function () {
       const res = await API.startAgent(channel, uid);
       agentId = res.agent_id;
 
-      setState("listening", "Listening… talk to Aura");
+      setState("listening", "Listening… talk to Angham");
     } catch (err) {
       await cleanup();
       active = false;
       voiceDock.classList.remove("open");
       setState(null, "Couldn’t start voice — please try again.");
-      setTimeout(() => { micLabel.textContent = "Ask Aura"; }, 2500);
+      setTimeout(() => { micLabel.textContent = "Ask Angham"; }, 2500);
     }
   }
 
@@ -82,7 +82,7 @@ const VoiceSession = (function () {
     }
     await cleanup();
     voiceDock.classList.remove("open");
-    setState(null, "Ask Aura");
+    setState(null, "Ask Angham");
   }
 
   async function cleanup() {
@@ -108,7 +108,7 @@ const VoiceSession = (function () {
     }
   }
 
-  // Once playback begins, let Aura's confirmation finish, then stop the agent
+  // Once playback begins, let Angham's confirmation finish, then stop the agent
   // and return the mic to its idle "start" state. The music keeps playing.
   function endSessionAfterPlay() {
     setTimeout(() => { if (active) stop(); }, 2200);
