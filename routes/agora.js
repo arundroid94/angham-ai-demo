@@ -54,7 +54,23 @@ async function openaiChat(messages, model) {
   return r.json();
 }
 
-const PLAY_ACKS = ["Enjoy!", "Here it comes!", "Playing it now!", "Let's go!"];
+const PLAY_ACKS = [
+  "Here it comes!",
+  "Playing it now!",
+  "Coming right up!",
+  "Turning it up!",
+  "Let's vibe!",
+  "Hit it!",
+  "Coming right up!",
+  "Let the music roll!",
+  "Spinning it up!",
+  "Here we go!",
+  "Let's get into it!",
+  "Dropping the beat!",
+  "Music's on!",
+  "Enjoy the vibes!",
+  "Sit back and listen!"
+];
 const ACTION_CLAIM = /\b(open(ed|ing)?|play(ing|ed)?|pull(ed|ing)? up|now open|now playing|set up|all set|here'?s)\b/i;
 
 router.post("/llm", async (req, res) => {
