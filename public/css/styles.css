@@ -262,3 +262,28 @@ body.player-active .voice-dock { bottom: 116px; }
 .card-art img { opacity: 0; transition: opacity 0.45s ease; }
 .card-art img.loaded { opacity: 1; }
 .empty-note { color: var(--text-lo); font-size: 15px; padding: 20px 2px; }
+
+/* Mic + caption stacked and centered */
+.dock-orb {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 34px;
+}
+.dock-credit {
+  margin: 0;
+  max-width: 130px;
+  text-align: center;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  line-height: 1.35;
+  color: var(--text-lo);
+}
+.dock-credit-accent {
+  font-weight: 700;
+  background: linear-gradient(90deg, var(--accent-1), var(--accent-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}

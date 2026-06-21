@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" />
 
-  <link rel="stylesheet" href="/css/styles.css" />
+  <link rel="stylesheet" href="/css/styles.css?v=4" />
 </head>
 <body>
 
@@ -27,16 +27,16 @@
 
   <main class="content">
 
-    <!-- HERO (dark voice card) -->
+    <!-- HERO (light voice card) -->
     <section class="hero">
       <p class="hero-kicker">POWERED BY AGORA CONVERSATIONAL AI</p>
       <h1 class="hero-title">Discover music, <span class="hero-name">just by talking.</span></h1>
       <p class="hero-subtitle">Real-time Conversational AI — ask naturally for moods, languages, decades, and artists.</p>
       <div class="hero-prompts">
-        <button class="prompt-chip" data-q="Relaxing music for driving">“Relaxing music for driving”</button>
-        <button class="prompt-chip" data-q="Khaleeji playlists">“Khaleeji playlists”</button>
-        <button class="prompt-chip" data-q="Arabic sports podcasts">“Arabic sports podcasts”</button>
-        <button class="prompt-chip" data-q="Songs by Amr Diab">“Songs by Amr Diab”</button>
+        <button class="prompt-chip">“Relaxing music for driving”</button>
+        <button class="prompt-chip">“Khaleeji playlists”</button>
+        <button class="prompt-chip">“Arabic sports podcasts”</button>
+        <button class="prompt-chip">“Songs by Amr Diab”</button>
       </div>
     </section>
 
@@ -50,7 +50,7 @@
       <div id="resultsSections"></div>
     </section>
 
-    <!-- DETAIL VIEW -->
+    <!-- DETAIL VIEW (tracks for playlists/podcasts, playlist grid for genres/moods) -->
     <section class="detail-view" id="detailView" hidden>
       <button class="back-btn" id="detailBack">← Back</button>
       <div class="detail-head">
@@ -100,14 +100,17 @@
         <span></span><span></span><span></span><span></span>
       </div>
     </div>
-    <button class="mic-button" id="micButton" aria-label="Ask Angham AI">
-      <span class="mic-ring"></span>
-      <span class="mic-ring delay"></span>
-      <svg class="mic-icon" viewBox="0 0 24 24" width="28" height="28" fill="currentColor">
-        <path d="M12 14a3 3 0 0 0 3-3V6a3 3 0 1 0-6 0v5a3 3 0 0 0 3 3z"/>
-        <path d="M17 11a1 1 0 1 0-2 0 3 3 0 0 1-6 0 1 1 0 1 0-2 0 5 5 0 0 0 4 4.9V19H8a1 1 0 1 0 0 2h8a1 1 0 1 0 0-2h-3v-3.1A5 5 0 0 0 17 11z"/>
-      </svg>
-    </button>
+    <div class="dock-orb">
+      <button class="mic-button" id="micButton" aria-label="Ask Angham">
+        <span class="mic-ring"></span>
+        <span class="mic-ring delay"></span>
+        <svg class="mic-icon" viewBox="0 0 24 24" width="28" height="28" fill="currentColor">
+          <path d="M12 14a3 3 0 0 0 3-3V6a3 3 0 1 0-6 0v5a3 3 0 0 0 3 3z"/>
+          <path d="M17 11a1 1 0 1 0-2 0 3 3 0 0 1-6 0 1 1 0 1 0-2 0 5 5 0 0 0 4 4.9V19H8a1 1 0 1 0 0 2h8a1 1 0 1 0 0-2h-3v-3.1A5 5 0 0 0 17 11z"/>
+        </svg>
+      </button>
+      <p class="dock-credit">Powered by <span class="dock-credit-accent">Agora Conversational AI</span></p>
+    </div>
   </div>
 
   <!-- Bottom mini player -->
@@ -125,7 +128,7 @@
     </button>
   </div>
 
- <script src="https://download.agora.io/sdk/release/AgoraRTC_N-4.20.0.js"></script>
+  <script src="https://download.agora.io/sdk/release/AgoraRTC_N-4.20.0.js"></script>
   <script src="/js/api.js?v=2"></script>
   <script src="/js/player.js?v=2"></script>
   <script src="/js/voice.js?v=2"></script>
