@@ -59,15 +59,12 @@ const PLAY_ACKS = [
   "Playing it now!",
   "Coming right up!",
   "Turning it up!",
-  "Let's vibe!",
-  "Hit it!",
   "Coming right up!",
   "Let the music roll!",
   "Spinning it up!",
   "Here we go!",
   "Let's get into it!",
   "Dropping the beat!",
-  "Music's on!",
   "Enjoy the vibes!",
   "Sit back and listen!"
 ];
