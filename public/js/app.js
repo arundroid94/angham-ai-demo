@@ -4,6 +4,28 @@ const PLAY_SVG =
   '<svg viewBox="0 0 24 24" width="18" height="18" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>';
 const DETAIL_TYPES = ["playlist", "podcast", "genre", "mood"];
 
+const FALLBACK_GRADIENTS = [
+  "linear-gradient(135deg,#efeaf6,#e2dcef)",
+  "linear-gradient(135deg,#eaeef6,#dde6f1)",
+  "linear-gradient(135deg,#f3ecf1,#e7dcea)",
+  "linear-gradient(135deg,#eaf0ef,#dde7e6)",
+  "linear-gradient(135deg,#f1ece9,#e7ddd9)",
+];
+function gradientFor(s) {
+  let h = 0;
+  for (const ch of String(s)) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  return FALLBACK_GRADIENTS[h % FALLBACK_GRADIENTS.length];
+}
+
+// Show a subtle gradient if an image errors OR doesn't load within 1.5s (picsum can hang).
+function applyImgFallback(imgEl, bgTargetEl, key) {
+  let settled = false;
+  const fallback = () => { if (settled) return; settled = true; bgTargetEl.style.background = gradientFor(key); };
+  imgEl.onload = () => { settled = true; imgEl.classList.add("loaded"); };
+  imgEl.onerror = fallback;
+  setTimeout(fallback, 1500);
+}
+
 let songsCache = [];
 let currentDetail = null;
 let detailStack = [];
@@ -27,8 +49,7 @@ function makeCard(item) {
   img.src = item.image;
   img.alt = item.title;
   img.loading = "lazy";
-  img.addEventListener("load", () => img.classList.add("loaded"));
-  img.addEventListener("error", () => img.classList.add("loaded"));
+  applyImgFallback(img, art, item.title);
 
   const play = document.createElement("button");
   play.className = "play-btn";
@@ -146,6 +167,8 @@ function makeTrackRow(t, i) {
     `<div class="track-artist">${t.artist}</div></div>` +
     `<span class="track-dur">${fmtTime(t.duration)}</span>`;
   li.addEventListener("click", () => playDetailTrack(i));
+  const tArt = li.querySelector(".track-art");
+  if (tArt) applyImgFallback(tArt, tArt, t.title);
   return li;
 }
 
@@ -155,6 +178,8 @@ function playDetailTrack(i) {
 
 function renderDetail(d) {
   detailCover.src = d.cover;
+  detailCover.style.background = "";
+  applyImgFallback(detailCover, detailCover, d.title);
   detailKicker.textContent = d.kicker;
   detailTitle.textContent = d.title;
   detailDesc.textContent = d.subtitle || "";
