@@ -122,7 +122,7 @@ body {
 /* ===== Floating voice dock (always visible) ===== */
 .voice-dock {
   position: fixed;
-  right: 40px;
+  right: 16px;
   bottom: 40px;
   z-index: 40;
   display: flex;
