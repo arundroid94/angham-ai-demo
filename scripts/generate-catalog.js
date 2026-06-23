@@ -1,5 +1,5 @@
 // scripts/generate-catalog.js
-// Run once with: node scripts/generate-catalog.js
+// Run with: node scripts/generate-catalog.js
 // Generates all JSON catalog files into the /data folder.
 
 const fs = require("fs");
@@ -8,20 +8,18 @@ const path = require("path");
 const DATA_DIR = path.join(__dirname, "..", "data");
 if (!fs.existsSync(DATA_DIR)) fs.mkdirSync(DATA_DIR, { recursive: true });
 
-// Helper: deterministic placeholder image per seed (real-looking photos).
 const img = (seed) => `https://picsum.photos/seed/${seed}/400/400`;
 
 /* ========== SONGS (5 real playable) ========== */
 const songs = [
-  { id: "song-1", title: "Leil w Ahlam", artist: "Demo Arabic", language: "arabic",  duration: 212, file: "/audio/arabic-1.mp3",  cover: img("song-ar-1") },
-  { id: "song-2", title: "Sahra",         artist: "Demo Arabic", language: "arabic",  duration: 198, file: "/audio/arabic-2.mp3",  cover: img("song-ar-2") },
+  { id: "song-1", title: "Leil w Ahlam",  artist: "Demo Arabic",  language: "arabic",  duration: 212, file: "/audio/arabic-1.mp3",  cover: img("song-ar-1") },
+  { id: "song-2", title: "Sahra",          artist: "Demo Arabic",  language: "arabic",  duration: 198, file: "/audio/arabic-2.mp3",  cover: img("song-ar-2") },
   { id: "song-3", title: "Midnight Drive", artist: "Demo English", language: "english", duration: 224, file: "/audio/english-1.mp3", cover: img("song-en-1") },
   { id: "song-4", title: "Golden Hour",    artist: "Demo English", language: "english", duration: 236, file: "/audio/english-2.mp3", cover: img("song-en-2") },
   { id: "song-5", title: "City Lights",    artist: "Demo English", language: "english", duration: 205, file: "/audio/english-3.mp3", cover: img("song-en-3") },
 ];
 const allSongIds = songs.map((s) => s.id);
-
-function pickSongs(language, i) {
+function pickSongs(language) {
   const preferred = language === "arabic" ? ["song-1", "song-2"] : ["song-3", "song-4", "song-5"];
   return [...new Set([...preferred, ...allSongIds])];
 }
@@ -103,7 +101,7 @@ function addPlaylist(title, language, i) {
     cover: img("pl-" + id),
     language, mood, genre,
     tags: [language, mood.toLowerCase(), genre.toLowerCase()],
-    songIds: pickSongs(language, i),
+    songIds: pickSongs(language),
   });
 }
 curated.forEach((c, i) => addPlaylist(c.title, c.language, i));
@@ -126,12 +124,6 @@ const podcastNames = ["Sports Majlis", "Kalam Riyadi", "Tech in Arabic", "The Cu
   "Science Simplified", "The Football Show", "Wellness Weekly", "Money Matters", "Deen Daily",
   "Laugh Lounge", "Gulf Voices", "Cinema Talk", "Quran Reflections", "Tech Trends",
   "Athlete Diaries", "Mind & Body", "Global Affairs", "The Founder", "Untold Mysteries", "Learn Arabic"];
-const categories = ["Sports", "Technology", "Culture", "Religion", "Business", "Health",
-  "Comedy", "News", "Education", "True Crime"];
-const hosts = ["Sara Al-Amri", "Omar Khalil", "Layla Hassan", "Yusuf Rahman", "Mariam Saleh",
-  "Khalid Nasser", "Dana Fahad", "Tariq Aziz"];
-
-// Category that matches each podcast name (same order as podcastNames).
 const podcastCategories = [
   "Sports", "Sports", "Technology", "Culture", "News",
   "Health", "Business", "Health", "Religion", "Comedy",
@@ -140,6 +132,8 @@ const podcastCategories = [
   "Culture", "Culture", "Religion", "Technology", "Sports",
   "Health", "News", "Business", "True Crime", "Education",
 ];
+const hosts = ["Sara Al-Amri", "Omar Khalil", "Layla Hassan", "Yusuf Rahman", "Mariam Saleh",
+  "Khalid Nasser", "Dana Fahad", "Tariq Aziz"];
 
 const podcasts = podcastNames.map((title, i) => {
   const episodeCount = 6 + (i % 5);

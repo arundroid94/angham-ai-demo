@@ -6,7 +6,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-amr-diab/400/400",
+    "image": "/images/ea268b8595f6.jpg",
     "monthlyListeners": 120000
   },
   {
@@ -16,7 +16,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-fairuz/400/400",
+    "image": "/images/d80a200dbb8e.jpg",
     "monthlyListeners": 173219
   },
   {
@@ -26,7 +26,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-nancy-ajram/400/400",
+    "image": "/images/a5bcf170fabc.jpg",
     "monthlyListeners": 226438
   },
   {
@@ -36,7 +36,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-mohammed-abdu/400/400",
+    "image": "/images/c6fb6e478598.jpg",
     "monthlyListeners": 279657
   },
   {
@@ -46,7 +46,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-elissa/400/400",
+    "image": "/images/f118385d4bfd.jpg",
     "monthlyListeners": 332876
   },
   {
@@ -56,7 +56,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-kadim-al-sahir/400/400",
+    "image": "/images/43d81272c604.jpg",
     "monthlyListeners": 386095
   },
   {
@@ -66,7 +66,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-abdul-majeed-abdullah/400/400",
+    "image": "/images/296dd9c52c62.jpg",
     "monthlyListeners": 439314
   },
   {
@@ -76,7 +76,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-tamer-hosny/400/400",
+    "image": "/images/b7e5cb6b48e1.jpg",
     "monthlyListeners": 492533
   },
   {
@@ -86,7 +86,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-sherine/400/400",
+    "image": "/images/128be86a1995.jpg",
     "monthlyListeners": 545752
   },
   {
@@ -96,7 +96,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-wael-kfoury/400/400",
+    "image": "/images/22bc6f6ea012.jpg",
     "monthlyListeners": 598971
   },
   {
@@ -106,7 +106,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-najwa-karam/400/400",
+    "image": "/images/f14d403a2f15.jpg",
     "monthlyListeners": 652190
   },
   {
@@ -116,7 +116,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-rashed-al-majed/400/400",
+    "image": "/images/a5a88ca8ee4a.jpg",
     "monthlyListeners": 705409
   },
   {
@@ -126,7 +126,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-hussain-al-jassmi/400/400",
+    "image": "/images/11887fd8d057.jpg",
     "monthlyListeners": 758628
   },
   {
@@ -136,7 +136,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-assala-nasri/400/400",
+    "image": "/images/75e2605e490f.jpg",
     "monthlyListeners": 811847
   },
   {
@@ -146,7 +146,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-angham/400/400",
+    "image": "/images/8784bccdd33c.jpg",
     "monthlyListeners": 865066
   },
   {
@@ -156,7 +156,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-mohamed-hamaki/400/400",
+    "image": "/images/a21fa310870f.jpg",
     "monthlyListeners": 918285
   },
   {
@@ -166,7 +166,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-saad-lamjarred/400/400",
+    "image": "/images/dba1326529e7.jpg",
     "monthlyListeners": 971504
   },
   {
@@ -176,7 +176,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-balqees/400/400",
+    "image": "/images/4a0ea15aa682.jpg",
     "monthlyListeners": 1024723
   },
   {
@@ -186,7 +186,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-ahlam/400/400",
+    "image": "/images/1784566a7f34.jpg",
     "monthlyListeners": 1077942
   },
   {
@@ -196,7 +196,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-diana-haddad/400/400",
+    "image": "/images/3eb00db84296.jpg",
     "monthlyListeners": 1131161
   },
   {
@@ -206,7 +206,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-cheb-khaled/400/400",
+    "image": "/images/305fc1e52099.jpg",
     "monthlyListeners": 1184380
   },
   {
@@ -216,7 +216,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-marwan-khoury/400/400",
+    "image": "/images/434c4bd94819.jpg",
     "monthlyListeners": 1237599
   },
   {
@@ -226,7 +226,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-carole-samaha/400/400",
+    "image": "/images/1a0e7a5bcb57.jpg",
     "monthlyListeners": 1290818
   },
   {
@@ -236,7 +236,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-ragheb-alama/400/400",
+    "image": "/images/6c10dcf55d8c.jpg",
     "monthlyListeners": 1344037
   },
   {
@@ -246,7 +246,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-majida-el-roumi/400/400",
+    "image": "/images/fa7b7e529800.jpg",
     "monthlyListeners": 1397256
   },
   {
@@ -256,7 +256,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-abdullah-al-rowaished/400/400",
+    "image": "/images/1b22f4e6f80d.jpg",
     "monthlyListeners": 1450475
   },
   {
@@ -266,7 +266,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-mayada-el-hennawy/400/400",
+    "image": "/images/7074aff727c9.jpg",
     "monthlyListeners": 1503694
   },
   {
@@ -276,7 +276,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-latifa/400/400",
+    "image": "/images/9cbefef03853.jpg",
     "monthlyListeners": 1556913
   },
   {
@@ -286,7 +286,7 @@
     "genres": [
       "Khaleeji"
     ],
-    "image": "https://picsum.photos/seed/artist-samira-said/400/400",
+    "image": "/images/d0e34dae03ea.jpg",
     "monthlyListeners": 1610132
   },
   {
@@ -296,7 +296,7 @@
     "genres": [
       "Tarab"
     ],
-    "image": "https://picsum.photos/seed/artist-kazem-al-saher/400/400",
+    "image": "/images/5e289460ac14.jpg",
     "monthlyListeners": 1663351
   },
   {
@@ -306,7 +306,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-miles-davis/400/400",
+    "image": "/images/316aff08d215.jpg",
     "monthlyListeners": 1716570
   },
   {
@@ -316,7 +316,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-ella-fitzgerald/400/400",
+    "image": "/images/587cbaeb4e07.jpg",
     "monthlyListeners": 1769789
   },
   {
@@ -326,7 +326,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-louis-armstrong/400/400",
+    "image": "/images/f456d8d6ce3d.jpg",
     "monthlyListeners": 1823008
   },
   {
@@ -336,7 +336,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-nina-simone/400/400",
+    "image": "/images/446c9400891b.jpg",
     "monthlyListeners": 1876227
   },
   {
@@ -346,7 +346,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-stan-getz/400/400",
+    "image": "/images/07ed7b1ef602.jpg",
     "monthlyListeners": 1929446
   },
   {
@@ -356,7 +356,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-john-coltrane/400/400",
+    "image": "/images/b9cf1c4bafbe.jpg",
     "monthlyListeners": 1982665
   },
   {
@@ -366,7 +366,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-billie-holiday/400/400",
+    "image": "/images/e501d38d9a64.jpg",
     "monthlyListeners": 2035884
   },
   {
@@ -376,7 +376,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-diana-krall/400/400",
+    "image": "/images/4f85a87429aa.jpg",
     "monthlyListeners": 2089103
   },
   {
@@ -386,7 +386,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-norah-jones/400/400",
+    "image": "/images/71fc6b7c67d8.jpg",
     "monthlyListeners": 2142322
   },
   {
@@ -396,7 +396,7 @@
     "genres": [
       "Jazz"
     ],
-    "image": "https://picsum.photos/seed/artist-frank-sinatra/400/400",
+    "image": "/images/848e76b3eee4.jpg",
     "monthlyListeners": 2195541
   },
   {
@@ -406,7 +406,7 @@
     "genres": [
       "Bollywood"
     ],
-    "image": "https://picsum.photos/seed/artist-lata-mangeshkar/400/400",
+    "image": "/images/7ef5c8b8e95b.jpg",
     "monthlyListeners": 2248760
   },
   {
@@ -416,7 +416,7 @@
     "genres": [
       "Bollywood"
     ],
-    "image": "https://picsum.photos/seed/artist-a.r.-rahman/400/400",
+    "image": "/images/7a8e84552be1.jpg",
     "monthlyListeners": 2301979
   },
   {
@@ -426,7 +426,7 @@
     "genres": [
       "Bollywood"
     ],
-    "image": "https://picsum.photos/seed/artist-kishore-kumar/400/400",
+    "image": "/images/734b47b0bcd0.jpg",
     "monthlyListeners": 2355198
   },
   {
@@ -436,7 +436,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-adele/400/400",
+    "image": "/images/890236cfb8df.jpg",
     "monthlyListeners": 2408417
   },
   {
@@ -446,7 +446,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-ed-sheeran/400/400",
+    "image": "/images/4b05a0edddf3.jpg",
     "monthlyListeners": 2461636
   },
   {
@@ -456,7 +456,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-coldplay/400/400",
+    "image": "/images/f8925a5e9b15.jpg",
     "monthlyListeners": 2514855
   },
   {
@@ -466,7 +466,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-the-weeknd/400/400",
+    "image": "/images/3d831db46e23.jpg",
     "monthlyListeners": 2568074
   },
   {
@@ -476,7 +476,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-dua-lipa/400/400",
+    "image": "/images/855e1d33d8a7.jpg",
     "monthlyListeners": 2621293
   },
   {
@@ -486,7 +486,7 @@
     "genres": [
       "Pop"
     ],
-    "image": "https://picsum.photos/seed/artist-michael-bublé/400/400",
+    "image": "/images/7d12eecc1493.jpg",
     "monthlyListeners": 2674512
   },
   {
@@ -496,7 +496,7 @@
     "genres": [
       "Reggae"
     ],
-    "image": "https://picsum.photos/seed/artist-bob-marley/400/400",
+    "image": "/images/0a8f4868b363.jpg",
     "monthlyListeners": 2727731
   }
 ]

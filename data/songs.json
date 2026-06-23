@@ -6,7 +6,7 @@
     "language": "arabic",
     "duration": 212,
     "file": "/audio/arabic-1.mp3",
-    "cover": "https://picsum.photos/seed/song-ar-1/400/400"
+    "cover": "/images/68274af526ea.jpg"
   },
   {
     "id": "song-2",
@@ -15,7 +15,7 @@
     "language": "arabic",
     "duration": 198,
     "file": "/audio/arabic-2.mp3",
-    "cover": "https://picsum.photos/seed/song-ar-2/400/400"
+    "cover": "/images/38b6ee1a3692.jpg"
   },
   {
     "id": "song-3",
@@ -24,7 +24,7 @@
     "language": "english",
     "duration": 224,
     "file": "/audio/english-1.mp3",
-    "cover": "https://picsum.photos/seed/song-en-1/400/400"
+    "cover": "/images/c6156a9e51b7.jpg"
   },
   {
     "id": "song-4",
@@ -33,7 +33,7 @@
     "language": "english",
     "duration": 236,
     "file": "/audio/english-2.mp3",
-    "cover": "https://picsum.photos/seed/song-en-2/400/400"
+    "cover": "/images/3f7ba2f9c2e6.jpg"
   },
   {
     "id": "song-5",
@@ -42,6 +42,6 @@
     "language": "english",
     "duration": 205,
     "file": "/audio/english-3.mp3",
-    "cover": "https://picsum.photos/seed/song-en-3/400/400"
+    "cover": "/images/f6f52e72978b.jpg"
   }
 ]

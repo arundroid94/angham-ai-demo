@@ -5,7 +5,7 @@
     "host": "Sara Al-Amri",
     "category": "Sports",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-1/400/400",
+    "image": "/images/6d61afd87db3.jpg",
     "episodes": [
       {
         "id": "podcast-1-ep-1",
@@ -51,7 +51,7 @@
     "host": "Omar Khalil",
     "category": "Sports",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-2/400/400",
+    "image": "/images/19c6b4e983a7.jpg",
     "episodes": [
       {
         "id": "podcast-2-ep-1",
@@ -103,7 +103,7 @@
     "host": "Layla Hassan",
     "category": "Technology",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-3/400/400",
+    "image": "/images/877a8fa3b9b5.jpg",
     "episodes": [
       {
         "id": "podcast-3-ep-1",
@@ -161,7 +161,7 @@
     "host": "Yusuf Rahman",
     "category": "Culture",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-4/400/400",
+    "image": "/images/9155b8e566b6.jpg",
     "episodes": [
       {
         "id": "podcast-4-ep-1",
@@ -225,7 +225,7 @@
     "host": "Mariam Saleh",
     "category": "News",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-5/400/400",
+    "image": "/images/ecb571ddcf30.jpg",
     "episodes": [
       {
         "id": "podcast-5-ep-1",
@@ -295,7 +295,7 @@
     "host": "Khalid Nasser",
     "category": "Health",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-6/400/400",
+    "image": "/images/831c116d20b1.jpg",
     "episodes": [
       {
         "id": "podcast-6-ep-1",
@@ -341,7 +341,7 @@
     "host": "Dana Fahad",
     "category": "Business",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-7/400/400",
+    "image": "/images/b38f6c9ce902.jpg",
     "episodes": [
       {
         "id": "podcast-7-ep-1",
@@ -393,7 +393,7 @@
     "host": "Tariq Aziz",
     "category": "Health",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-8/400/400",
+    "image": "/images/8fa36420e43c.jpg",
     "episodes": [
       {
         "id": "podcast-8-ep-1",
@@ -451,7 +451,7 @@
     "host": "Sara Al-Amri",
     "category": "Religion",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-9/400/400",
+    "image": "/images/be89ddfa307d.jpg",
     "episodes": [
       {
         "id": "podcast-9-ep-1",
@@ -515,7 +515,7 @@
     "host": "Omar Khalil",
     "category": "Comedy",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-10/400/400",
+    "image": "/images/f8e3fbf4f4f8.jpg",
     "episodes": [
       {
         "id": "podcast-10-ep-1",
@@ -585,7 +585,7 @@
     "host": "Layla Hassan",
     "category": "News",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-11/400/400",
+    "image": "/images/2f57ed08e2cc.jpg",
     "episodes": [
       {
         "id": "podcast-11-ep-1",
@@ -631,7 +631,7 @@
     "host": "Yusuf Rahman",
     "category": "Business",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-12/400/400",
+    "image": "/images/71e53557c3ff.jpg",
     "episodes": [
       {
         "id": "podcast-12-ep-1",
@@ -683,7 +683,7 @@
     "host": "Mariam Saleh",
     "category": "Education",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-13/400/400",
+    "image": "/images/6d0477c4f4bc.jpg",
     "episodes": [
       {
         "id": "podcast-13-ep-1",
@@ -741,7 +741,7 @@
     "host": "Khalid Nasser",
     "category": "True Crime",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-14/400/400",
+    "image": "/images/d13192baac9d.jpg",
     "episodes": [
       {
         "id": "podcast-14-ep-1",
@@ -805,7 +805,7 @@
     "host": "Dana Fahad",
     "category": "Education",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-15/400/400",
+    "image": "/images/39587f930f40.jpg",
     "episodes": [
       {
         "id": "podcast-15-ep-1",
@@ -875,7 +875,7 @@
     "host": "Tariq Aziz",
     "category": "Sports",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-16/400/400",
+    "image": "/images/d3e564cc35be.jpg",
     "episodes": [
       {
         "id": "podcast-16-ep-1",
@@ -921,7 +921,7 @@
     "host": "Sara Al-Amri",
     "category": "Health",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-17/400/400",
+    "image": "/images/18b996f4254a.jpg",
     "episodes": [
       {
         "id": "podcast-17-ep-1",
@@ -973,7 +973,7 @@
     "host": "Omar Khalil",
     "category": "Business",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-18/400/400",
+    "image": "/images/390477c832fa.jpg",
     "episodes": [
       {
         "id": "podcast-18-ep-1",
@@ -1031,7 +1031,7 @@
     "host": "Layla Hassan",
     "category": "Religion",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-19/400/400",
+    "image": "/images/6ae7cf7af301.jpg",
     "episodes": [
       {
         "id": "podcast-19-ep-1",
@@ -1095,7 +1095,7 @@
     "host": "Yusuf Rahman",
     "category": "Comedy",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-20/400/400",
+    "image": "/images/9b1e0b041405.jpg",
     "episodes": [
       {
         "id": "podcast-20-ep-1",
@@ -1165,7 +1165,7 @@
     "host": "Mariam Saleh",
     "category": "Culture",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-21/400/400",
+    "image": "/images/8b71480713fb.jpg",
     "episodes": [
       {
         "id": "podcast-21-ep-1",
@@ -1211,7 +1211,7 @@
     "host": "Khalid Nasser",
     "category": "Culture",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-22/400/400",
+    "image": "/images/e5a8b8e8c74b.jpg",
     "episodes": [
       {
         "id": "podcast-22-ep-1",
@@ -1263,7 +1263,7 @@
     "host": "Dana Fahad",
     "category": "Religion",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-23/400/400",
+    "image": "/images/258d55b9e20b.jpg",
     "episodes": [
       {
         "id": "podcast-23-ep-1",
@@ -1321,7 +1321,7 @@
     "host": "Tariq Aziz",
     "category": "Technology",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-24/400/400",
+    "image": "/images/24690be69223.jpg",
     "episodes": [
       {
         "id": "podcast-24-ep-1",
@@ -1385,7 +1385,7 @@
     "host": "Sara Al-Amri",
     "category": "Sports",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-25/400/400",
+    "image": "/images/67b04deeaa9d.jpg",
     "episodes": [
       {
         "id": "podcast-25-ep-1",
@@ -1455,7 +1455,7 @@
     "host": "Omar Khalil",
     "category": "Health",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-26/400/400",
+    "image": "/images/49b290d2f00e.jpg",
     "episodes": [
       {
         "id": "podcast-26-ep-1",
@@ -1501,7 +1501,7 @@
     "host": "Layla Hassan",
     "category": "News",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-27/400/400",
+    "image": "/images/869634a69083.jpg",
     "episodes": [
       {
         "id": "podcast-27-ep-1",
@@ -1553,7 +1553,7 @@
     "host": "Yusuf Rahman",
     "category": "Business",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-28/400/400",
+    "image": "/images/1d09ab68072d.jpg",
     "episodes": [
       {
         "id": "podcast-28-ep-1",
@@ -1611,7 +1611,7 @@
     "host": "Mariam Saleh",
     "category": "True Crime",
     "language": "arabic",
-    "image": "https://picsum.photos/seed/pod-29/400/400",
+    "image": "/images/b058582090d2.jpg",
     "episodes": [
       {
         "id": "podcast-29-ep-1",
@@ -1675,7 +1675,7 @@
     "host": "Khalid Nasser",
     "category": "Education",
     "language": "english",
-    "image": "https://picsum.photos/seed/pod-30/400/400",
+    "image": "/images/bab6b67e9a2a.jpg",
     "episodes": [
       {
         "id": "podcast-30-ep-1",

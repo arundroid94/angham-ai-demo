@@ -11,6 +11,7 @@ const app = express();
 const PORT = 3000;
 
 app.use(express.json());
+app.use("/images", express.static(path.join(__dirname, "public", "images"), { maxAge: "30d", immutable: true }));
 app.use(express.static(path.join(__dirname, "public")));
 
 app.use("/api/catalog", catalogRouter);

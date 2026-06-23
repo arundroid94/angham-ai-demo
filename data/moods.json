@@ -3,90 +3,90 @@
     "id": "mood-1",
     "name": "Relaxing",
     "emoji": "😌",
-    "image": "https://picsum.photos/seed/mood-relaxing/400/400"
+    "image": "/images/aa3f1b4d0a6a.jpg"
   },
   {
     "id": "mood-2",
     "name": "Energetic",
     "emoji": "⚡",
-    "image": "https://picsum.photos/seed/mood-energetic/400/400"
+    "image": "/images/a78e31d5bc0d.jpg"
   },
   {
     "id": "mood-3",
     "name": "Focus",
     "emoji": "🎯",
-    "image": "https://picsum.photos/seed/mood-focus/400/400"
+    "image": "/images/ec643be086a1.jpg"
   },
   {
     "id": "mood-4",
     "name": "Romantic",
     "emoji": "❤️",
-    "image": "https://picsum.photos/seed/mood-romantic/400/400"
+    "image": "/images/c88df0385f47.jpg"
   },
   {
     "id": "mood-5",
     "name": "Happy",
     "emoji": "😄",
-    "image": "https://picsum.photos/seed/mood-happy/400/400"
+    "image": "/images/7829b5b2e1f3.jpg"
   },
   {
     "id": "mood-6",
     "name": "Chill",
     "emoji": "🍃",
-    "image": "https://picsum.photos/seed/mood-chill/400/400"
+    "image": "/images/8f094af3b4e8.jpg"
   },
   {
     "id": "mood-7",
     "name": "Workout",
     "emoji": "💪",
-    "image": "https://picsum.photos/seed/mood-workout/400/400"
+    "image": "/images/33bbb3c79934.jpg"
   },
   {
     "id": "mood-8",
     "name": "Sleep",
     "emoji": "😴",
-    "image": "https://picsum.photos/seed/mood-sleep/400/400"
+    "image": "/images/7675a6ae177c.jpg"
   },
   {
     "id": "mood-9",
     "name": "Party",
     "emoji": "🎉",
-    "image": "https://picsum.photos/seed/mood-party/400/400"
+    "image": "/images/d580c8f94473.jpg"
   },
   {
     "id": "mood-10",
     "name": "Sad",
     "emoji": "😢",
-    "image": "https://picsum.photos/seed/mood-sad/400/400"
+    "image": "/images/74f101add19d.jpg"
   },
   {
     "id": "mood-11",
     "name": "Driving",
     "emoji": "🚗",
-    "image": "https://picsum.photos/seed/mood-driving/400/400"
+    "image": "/images/6afa67316d5a.jpg"
   },
   {
     "id": "mood-12",
     "name": "Study",
     "emoji": "📚",
-    "image": "https://picsum.photos/seed/mood-study/400/400"
+    "image": "/images/e0b325a23d47.jpg"
   },
   {
     "id": "mood-13",
     "name": "Morning",
     "emoji": "🌅",
-    "image": "https://picsum.photos/seed/mood-morning/400/400"
+    "image": "/images/26912746d795.jpg"
   },
   {
     "id": "mood-14",
     "name": "Night",
     "emoji": "🌙",
-    "image": "https://picsum.photos/seed/mood-night/400/400"
+    "image": "/images/0a7c1d3c9a8e.jpg"
   },
   {
     "id": "mood-15",
     "name": "Spiritual",
     "emoji": "🕌",
-    "image": "https://picsum.photos/seed/mood-spiritual/400/400"
+    "image": "/images/53becb237d15.jpg"
   }
 ]
